@@ -19,4 +19,4 @@ os.system("pkg install figlet -y")
 os.system("pkg install toilet -y")
 print("\n")
 print(yellow+bold+"\t\t=====COMPLETE=====")
-print(green+bold+"\t\t\ttype\n\t\tpython2 dimVIRUS.py
+print(green+bold+"\t\t\ttype\n\t\tpython2 OR python3 d1mVIRUS.py
